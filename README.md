@@ -8,3 +8,5 @@ data and results: developing a machine learning model for detecting sea tutle tr
 3. Add turtle tracks (these are rare, don't have data yet - season will start in a few weeks)
 4. Add more annotations, refine model
 
+
+<img width="1103" height="645" alt="image" src="https://github.com/user-attachments/assets/f5d877b9-ea96-482f-82ab-e652bf3f1e97" />
