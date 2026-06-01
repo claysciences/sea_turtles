@@ -10,3 +10,7 @@ data and results: developing a machine learning model for detecting sea tutle tr
 
 
 <img width="1103" height="645" alt="image" src="https://github.com/user-attachments/assets/f5d877b9-ea96-482f-82ab-e652bf3f1e97" />
+
+Some links
+* https://www.sciencenewstoday.org/how-sea-turtles-navigate-oceans-to-lay-eggs
+  
